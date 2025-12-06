@@ -70,7 +70,7 @@ Este projeto adere ao nosso [Código de Conduta](CODE_OF_CONDUCT.pt.md). Ao part
 
 ```bash
 # Clonar
-git clone https://github.com/yourusername/a-lang.git
+git clone https://github.com/A-The-Programming-Language/a-lang.git
 cd a-lang
 
 # Compilar

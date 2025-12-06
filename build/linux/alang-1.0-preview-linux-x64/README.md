@@ -191,7 +191,7 @@ context "numeric" {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/a-lang.git
+git clone https://github.com/A-The-Programming-Language/a-lang.git
 cd a-lang
 
 # Build the project
@@ -508,7 +508,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/a-lang.git
+git clone https://github.com/A-The-Programming-Language/a-lang.git
 cd a-lang
 
 # Build in debug mode
@@ -545,7 +545,7 @@ A-lang is built on the shoulders of giants:
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/A-The-Programming-Language)
 - Email: your.email@example.com
 - Discord: [Join our community](https://discord.gg/alang)
 

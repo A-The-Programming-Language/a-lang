@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["A-lang Contributors"]
 description = "A-lang: A revolutionary scripting language with time-travel debugging, reactive variables, and more"
 license = "MIT"
-repository = "https://github.com/yourusername/a-lang"
+repository = "https://github.com/A-The-Programming-Language/a-lang"
 
 [dependencies]
 # Parsing and lexing

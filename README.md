@@ -6,7 +6,7 @@
 
 # 🚀 A-lang - The Time-Traveling Reactive Language
 
-[![Version](https://img.shields.io/badge/version-1.0--preview-blue.svg)](https://github.com/yourusername/a-lang/releases)
+[![Version](https://img.shields.io/badge/version-1.0--preview-blue.svg)](https://github.com/A-The-Programming-Language/a-lang/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)]()
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
@@ -109,13 +109,13 @@ gpioWrite(17, "high")
 
 #### Ubuntu/Debian
 ```bash
-wget https://github.com/yourusername/a-lang/releases/download/v1.0-preview/alang_1.0-preview_amd64.deb
+wget https://github.com/A-The-Programming-Language/a-lang/releases/download/v1.0-preview/alang_1.0-preview_amd64.deb
 sudo dpkg -i alang_1.0-preview_amd64.deb
 ```
 
 #### Linux (Portable)
 ```bash
-wget https://github.com/yourusername/a-lang/releases/download/v1.0-preview/alang-1.0-preview-linux-x64.tar.gz
+wget https://github.com/A-The-Programming-Language/a-lang/releases/download/v1.0-preview/alang-1.0-preview-linux-x64.tar.gz
 tar -xzf alang-1.0-preview-linux-x64.tar.gz
 export PATH=$PATH:$(pwd)/alang-1.0-preview-linux-x64
 ```
@@ -127,7 +127,7 @@ brew install a-lang
 ```
 
 #### Windows
-Download and run [A-lang-1.0-preview-Setup.exe](https://github.com/yourusername/a-lang/releases)
+Download and run [A-lang-1.0-preview-Setup.exe](https://github.com/A-The-Programming-Language/a-lang/releases)
 
 ---
 
@@ -466,9 +466,9 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## 💬 Community
 
-- **GitHub**: [github.com/yourusername/a-lang](https://github.com/yourusername/a-lang)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/a-lang/discussions)
-- **Issues**: [Report bugs](https://github.com/yourusername/a-lang/issues)
+- **GitHub**: [github.com/A-The-Programming-Language/a-lang](https://github.com/A-The-Programming-Language/a-lang)
+- **Discussions**: [GitHub Discussions](https://github.com/A-The-Programming-Language/a-lang/discussions)
+- **Issues**: [Report bugs](https://github.com/A-The-Programming-Language/a-lang/issues)
 - **Twitter**: [@alang_dev](https://twitter.com/alang_dev)
 
 ---

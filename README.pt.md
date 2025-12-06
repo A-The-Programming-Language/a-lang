@@ -6,7 +6,7 @@
 
 # 🚀 A-lang - A Linguagem Reativa com Viagem no Tempo
 
-[![Versão](https://img.shields.io/badge/versão-1.0--preview-blue.svg)](https://github.com/yourusername/a-lang/releases)
+[![Versão](https://img.shields.io/badge/versão-1.0--preview-blue.svg)](https://github.com/A-The-Programming-Language/a-lang/releases)
 [![Licença](https://img.shields.io/badge/licença-MIT-green.svg)](LICENSE)
 [![Plataforma](https://img.shields.io/badge/plataforma-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)]()
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
@@ -109,13 +109,13 @@ gpioWrite(17, "high")
 
 #### Ubuntu/Debian
 ```bash
-wget https://github.com/yourusername/a-lang/releases/download/v1.0-preview/alang_1.0-preview_amd64.deb
+wget https://github.com/A-The-Programming-Language/a-lang/releases/download/v1.0-preview/alang_1.0-preview_amd64.deb
 sudo dpkg -i alang_1.0-preview_amd64.deb
 ```
 
 #### Linux (Portátil)
 ```bash
-wget https://github.com/yourusername/a-lang/releases/download/v1.0-preview/alang-1.0-preview-linux-x64.tar.gz
+wget https://github.com/A-The-Programming-Language/a-lang/releases/download/v1.0-preview/alang-1.0-preview-linux-x64.tar.gz
 tar -xzf alang-1.0-preview-linux-x64.tar.gz
 export PATH=$PATH:$(pwd)/alang-1.0-preview-linux-x64
 ```
@@ -127,7 +127,7 @@ brew install a-lang
 ```
 
 #### Windows
-Baixe e execute [A-lang-1.0-preview-Setup.exe](https://github.com/yourusername/a-lang/releases)
+Baixe e execute [A-lang-1.0-preview-Setup.exe](https://github.com/A-The-Programming-Language/a-lang/releases)
 
 ---
 
@@ -466,9 +466,9 @@ Licença MIT - veja o arquivo [LICENSE](LICENSE).
 
 ## 💬 Comunidade
 
-- **GitHub**: [github.com/yourusername/a-lang](https://github.com/yourusername/a-lang)
-- **Discussões**: [GitHub Discussions](https://github.com/yourusername/a-lang/discussions)
-- **Issues**: [Reportar bugs](https://github.com/yourusername/a-lang/issues)
+- **GitHub**: [github.com/A-The-Programming-Language/a-lang](https://github.com/A-The-Programming-Language/a-lang)
+- **Discussões**: [GitHub Discussions](https://github.com/A-The-Programming-Language/a-lang/discussions)
+- **Issues**: [Reportar bugs](https://github.com/A-The-Programming-Language/a-lang/issues)
 - **Twitter**: [@alang_dev](https://twitter.com/alang_dev)
 
 ---

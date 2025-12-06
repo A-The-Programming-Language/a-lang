@@ -70,7 +70,7 @@ Areas where we need help:
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/a-lang.git
+git clone https://github.com/A-The-Programming-Language/a-lang.git
 cd a-lang
 
 # Build

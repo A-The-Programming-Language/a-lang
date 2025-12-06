@@ -159,7 +159,7 @@ Getting Started:
   3. Try: alang examples\hello.al
 
 Documentation:
-  See https://github.com/yourusername/a-lang
+  See https://github.com/A-The-Programming-Language/a-lang
 
 Examples:
   - hello.al          - Hello world
@@ -324,7 +324,7 @@ cat > "${LINUX_DIR}/alang-${VERSION}-linux-x64/README.md" << EOF
 
 ## Support
 
-GitHub: https://github.com/yourusername/a-lang
+GitHub: https://github.com/A-The-Programming-Language/a-lang
 EOF
 
 # Copy documentation
