@@ -1,0 +1,2 @@
+a81b2e45a5fee1e6e1203dc2073cdf576eeaf80b95d2ad220dae2a4fe4a3ec22  alang-1.0-preview-linux-x64.tar.gz
+8054280cdaa374fde88060aa083d011233f61c0d6913d1e8142dbc096b5533ef  alang_1.0-preview_amd64.deb

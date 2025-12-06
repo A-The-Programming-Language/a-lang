@@ -1,0 +1,13 @@
+Package: alang
+Version: 1.0-preview
+Section: devel
+Priority: optional
+Architecture: amd64
+Maintainer: A-lang Project <alang@example.com>
+Description: A-lang - Revolutionary scripting language
+ A-lang is a modern scripting language with:
+  - Time-travel debugging
+  - Reactive variables
+  - FFI for C libraries
+  - User input support
+  - Backend/IoT capabilities

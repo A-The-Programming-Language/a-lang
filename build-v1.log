@@ -1,0 +1,15 @@
+[0;34m╔═══════════════════════════════════════════════════════════════╗[0m
+[0;34m║     A-lang Package Builder v1.0-preview                     ║[0m
+[0;34m║     Building for 2025                                       ║[0m
+[0;34m╚═══════════════════════════════════════════════════════════════╝[0m
+
+[1;33m[0/6] Updating version to 1.0-preview...[0m
+[0;32m✓ Version updated in Cargo.toml[0m
+
+[1;33m[1/6] Building release binaries...[0m
+  → Building Linux binary...
+error: invalid inline table element, expected `,`
+  --> Cargo.toml:20:36
+   |
+20 | tokio = { version = "1.0.0-preview"] }
+   |                                    ^
