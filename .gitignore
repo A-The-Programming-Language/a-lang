@@ -1,0 +1,26 @@
+/target
+
+# Temporary files
+*.log
+*.tmp
+*.sg
+# Build artifacts
+/build
+/releases
+/release
+
+# Package outputs
+*.deb
+*.exe
+*.tar.gz
+*.zip
+SHA256SUMS.txt
+
+
+
+# Windows specific
+*.msi
+
+# macOS specific
+*.dmg
+*.pkg
